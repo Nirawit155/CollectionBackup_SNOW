@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>Collection Tracker Workspace - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>false</show_tab_counts>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-09-09 07:48:24</sys_created_on>
+        <sys_id>03687e51f6ac12103a161d10c704dcf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collection Tracker Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1529067_collec_0">7d8e069147e81210023cd879316d4373</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7d8e069147e81210023cd879316d4373</sys_scope>
+        <sys_update_name>sys_search_context_config_03687e51f6ac12103a161d10c704dcf6</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-09-09 07:48:24</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=03687e51f6ac12103a161d10c704dcf6"/>
+</record_update>
